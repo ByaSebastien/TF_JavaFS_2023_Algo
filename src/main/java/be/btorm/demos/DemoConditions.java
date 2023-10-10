@@ -6,6 +6,7 @@ public class DemoConditions {
 
         int jour = 5;
 
+
 //        if (jour == 1) {
 //            System.out.println("Lundi");
 //        } else if (jour == 2) {
